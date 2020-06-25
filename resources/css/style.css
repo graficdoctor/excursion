@@ -25,6 +25,12 @@ p {
     color: gray;
 }
 
+
+/* Footer */
 .footer {
     text-align: right;
+}
+
+.footer p {
+    font-size: 0.8em;
 }
